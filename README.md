@@ -84,7 +84,7 @@ Uploads a `.wav` file, transcribes it to Swahili text, and translates it into En
 
 For production environments, it is recommended to run the application with multiple workers for better scalability. 
 
-If you're running the app from a script, you can use the following setup in your `app.py`:
+If you're running the app from a script, you can use the following setup in your `swahili_api.py`:
 
 ```python
 if __name__ == "__main__":
