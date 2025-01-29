@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+speechbrain
+transformers
+torch
+numpy
+pyyaml
