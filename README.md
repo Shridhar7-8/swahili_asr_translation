@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Swahili ASR and Translation API
 
 This FastAPI application provides an endpoint for transcribing Swahili speech from .wav files and translating the transcription into English.
@@ -94,3 +95,6 @@ if __name__ == "__main__":
 
 
 
+=======
+# swahili_asr_translation
+>>>>>>> ade6fb1602c7200e8da66aa58fcddb056bc65bff
